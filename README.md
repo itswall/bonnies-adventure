@@ -1,10 +1,10 @@
-# Bonnies Adventure
-Bonnies Adventure é um jogo de plataforma 2D de código aberto desenvolvido com Unity. Nossa personagem tem como objetivo chegar ao final do jogo coletando as cenouras nos baús. Ele oferece uma experiência de jogo de plataforma tradicional, onde podemos ganhar pontos coletando estrelas e neutralizando inimigos.
+# Bonnie's Adventure
+Bonnie's Adventure é um jogo de plataforma 2D de código aberto desenvolvido com Unity. Nossa personagem tem como objetivo chegar ao final do jogo coletando as cenouras nos baús. Ele oferece uma experiência de jogo de plataforma tradicional, onde podemos ganhar pontos coletando estrelas e neutralizando inimigos.
 
 
 ## Como jogar
 
-Siga as instruções abaixo para começar a jogar Bonnies Adventure:
+Siga as instruções abaixo para começar a jogar Bonnie's Adventure no Windows:
 
 1. Baixe o arquivo na area de download do repositorio.
 2. Extraia o .zip em alguma pasta.
@@ -12,11 +12,11 @@ Siga as instruções abaixo para começar a jogar Bonnies Adventure:
 
 ## Download
 
-- [:sparkles: Download Bonnies Adventure](https://github.com/itswall/bonnies-adventure/releases/download/wow/Bonnies-Adventure.zip)
+- [:sparkles: Download Bonnie's Adventure](https://github.com/itswall/bonnies-adventure/releases/download/wow/Bonnies-Adventure.zip)
 
 ## Source Code
 
-Você pode obter acesso ao código-fonte de The Lost Forest usando a seguinte maneira:
+Você pode obter acesso ao código-fonte de Bonnie's Adventure usando a seguinte maneira:
 
 ```bash
 git clone https://github.com/itswall/bonnies-adventure.git
