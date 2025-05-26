@@ -18,8 +18,6 @@ Siga as instruções abaixo para começar a jogar Bonnies Adventure:
 
 Você pode obter acesso ao código-fonte de The Lost Forest usando a seguinte maneira:
 
-- :fire:  Clone the repository locally:
-
 ```bash
 git clone https://github.com/itswall/bonnies-adventure.git
 ```
